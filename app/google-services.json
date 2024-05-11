@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199801420609",
+    "project_id": "epicsss",
+    "storage_bucket": "epicsss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199801420609:android:cbc550b36e792006a77fc0",
+        "android_client_info": {
+          "package_name": "com.example.epics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa281bG0VzMhcaofPrRKvGCdCef6Rycx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
